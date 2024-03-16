@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Selection {
+public class Selection1 {
     static void selectionSort(int arr[]) {
         int n = arr.length;
         for (int i = 0; i < n - 1; i++) {
